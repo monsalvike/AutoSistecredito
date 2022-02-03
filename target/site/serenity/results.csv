@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"the user open the app and try pay a credit but the user not have a credit","the user dont pay a credit because the user dont have a credit","PENDING","2022-02-02T19:15:25.887-05:00[America/Bogota]","0.0","0.42"
+"the user open the app and try pay a credit but the user not have a credit","the user wants to pay a credit but cannot because he does not have one","SUCCESS","2022-02-03T18:35:29.966-05:00[America/Bogota]","0.0","22.27"
